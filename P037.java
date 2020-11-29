@@ -1,5 +1,5 @@
 //Dizinin elemanlarinin toplamini ekrana yazan program
-\
+
 class Array3{
 	public static void main(String args[]) throws Exception{
 		int a[]={4,8,3,1,18,9,21,20,5,17};
