@@ -1,4 +1,4 @@
-//Dizideki tek sayilari tek sayilarin adedini toplamini ve ortamalasini ekrana yazdiran program
+//Dizideki tek sayilari tek sayilarin adedini, toplamini ve ortalamasini ekrana yazdiran program
 
 class Array8{
 	public static void main(String args[]){
