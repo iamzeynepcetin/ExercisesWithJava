@@ -1,4 +1,4 @@
-//dizinin ilk n adet elemanini dizinin sonuna atayan ve bastaki elemanlari sifirlayan eleman
+//dizinin ilk n adet elemanini dizinin sonuna atayan ve bastaki elemanlari sifirlayan kod
 
 class Dizi5{
 	public static void main(String args[]) throws Exception{
