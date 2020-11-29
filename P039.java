@@ -1,4 +1,4 @@
-//Dizinin elemanlarinin ve ortalamasini ekrana yazdiran program
+//Dizinin elemanlarinin toplamini ve ortalamasini ekrana yazdiran program
 
 class Array5{
 	public static void main(String args[]) throws Exception{
